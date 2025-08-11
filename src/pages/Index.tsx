@@ -54,7 +54,7 @@ const Index = () => {
           <div className="flex items-center gap-2">
             <a
               className="inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground"
-              href="https://github.com/PiyushRepos"
+              href="https://github.com/PiyushRepos/genai-tokenizer"
               target="_blank"
               rel="noreferrer"
             >
@@ -128,7 +128,7 @@ const Index = () => {
               <Twitter className="h-4 w-4" />
             </a>
             <a
-              href="https://www.linkedin.com/in/piyushkumar-dev/"
+              href="https://www.linkedin.com/in/piyushh04/"
               target="_blank"
               rel="noreferrer"
               aria-label="LinkedIn"
